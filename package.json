@@ -1,0 +1,12 @@
+{
+  "name": "deep-research-agent-m1",
+  "version": "1.0.0",
+  "description": "Deep Research Agent M1 - 基础版自动研究报告生成工具",
+  "type": "module",
+  "bin": {
+    "deep-research": "./bin/deep-research"
+  },
+  "keywords": ["research", "ai", "tavily", "openclaw"],
+  "author": "Jarvis",
+  "license": "MIT"
+}

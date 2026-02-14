@@ -1,0 +1,5 @@
+#!/bin/bash
+# Deep Research Agent M1 CLI入口
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+node "${SCRIPT_DIR}/../src/research.mjs" "$@"
