@@ -83,7 +83,7 @@ M1 is the **free basic version** with limitations:
 
 ## Support
 
-- 💖 [Sponsor on 爱发电](https://afdian.net/@yourname)
+- 💖 [Sponsor on 爱发电](https://afdian.com/a/chattian)
 - 🐛 [GitHub Issues](../../issues)
 - 📧 Email: your@email.com
 
